@@ -1,4 +1,4 @@
-# Think in javaScript
+# JS scopes
 
 ```
 ** js scope **
